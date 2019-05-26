@@ -1,0 +1,153 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "body": "Bhupendra sahu",
+      "title": "Hello data1",
+      "id": 2
+    },
+    {
+      "type": "ADD_POST",
+      "payload": {
+        "id": "463e0f57-33cf-4bab-847e-89f56b8ebaf4",
+        "title": "dvdfhbdg",
+        "body": "b dgngdgnd"
+      },
+      "id": 3
+    },
+    {
+      "body": "gdbth",
+      "title": "bdfgnbrgnf",
+      "id": 4
+    },
+    {
+      "title": "Heloooooo",
+      "body": "Brother",
+      "id": 7
+    },
+    {
+      "title": "dsf",
+      "body": "fcdv",
+      "id": 8
+    },
+    {
+      "title": "hbgfvnb",
+      "body": "b fgnb fnnnnfgn",
+      "id": 9
+    },
+    {
+      "title": "nfjknfa",
+      "body": "mcklasnckjas",
+      "id": 10
+    },
+    {
+      "title": "bhupendra Sahu",
+      "body": "Hello Bhupendra",
+      "id": 11
+    },
+    {
+      "title": "Aarti sahu",
+      "body": "Hello Aarti",
+      "id": 12
+    },
+    {
+      "title": "Aaaaaaaaaaaaaaaa",
+      "body": "aaaaaaaaaaaa",
+      "id": 13
+    },
+    {
+      "title": "nckjdbv",
+      "body": "mnhjfed",
+      "id": 14
+    },
+    {
+      "title": "Hello",
+      "body": "Hello",
+      "id": 15
+    },
+    {
+      "title": "Dara",
+      "body": "Daad",
+      "id": 16
+    },
+    {
+      "title": "mj",
+      "body": "jh",
+      "id": 17
+    },
+    {
+      "title": "xknsc",
+      "body": "mmskacna",
+      "id": 18
+    },
+    {
+      "title": "sacja",
+      "body": "mckasv",
+      "id": 19
+    },
+    {
+      "title": "aaaaaaaaaaaa",
+      "body": "aaaaaaaaaaaaa",
+      "id": 20
+    },
+    {
+      "title": "bhupendra",
+      "body": "sahu",
+      "id": 21
+    },
+    {
+      "title": "nchjasc",
+      "body": "xnkjasbc",
+      "id": 22
+    },
+    {
+      "title": "cjasbc",
+      "body": "makncs",
+      "id": 23
+    },
+    {
+      "title": "skanvja",
+      "body": "kcvjas",
+      "id": 24
+    },
+    {
+      "title": "vcsdv",
+      "body": "vdvavv",
+      "id": 25
+    },
+    {
+      "title": "dvsv",
+      "body": "ds",
+      "id": 26
+    },
+    {
+      "title": "sssssssss",
+      "body": "sssssssssss",
+      "id": 27
+    },
+    {
+      "title": "saca",
+      "body": "saas",
+      "id": 28
+    },
+    {
+      "title": "saca",
+      "body": "scasca",
+      "id": 29
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
